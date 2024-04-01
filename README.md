@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mobeen-Dev
+- 👋 Hi, I’m Dev @ Digilog
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning ML/AI
 - 💞️ I’m looking to collaborate on Big Scale Project
